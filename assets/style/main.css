@@ -1,0 +1,2 @@
+/* Build on 12 May 2023, IyoRTML */
+*{margin:0;padding:0;font-family:sans-serif;box-sizing:border-box}h1{margin:0;padding:4px}p{margin:0;padding:0 4px;text-align:justify}body{background:whitesmoke}.container{background:#fff;margin:0 auto;padding:10px;width:80%}#barcode{width:100%}input[type=text]{width:100%;padding:12px 20px;margin:8px 0;box-sizing:border-box}@media only screen and (max-width:600px){.container{width:100%}}
