@@ -1,2 +1,1 @@
-# live-making-barcode
-Live Making Barcode
+# Live Making Barcode
