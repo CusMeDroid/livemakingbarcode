@@ -1,4 +1,4 @@
-# Live Making Barcode
+# Live Making Barcode (LMB)
 This is a live making barcode on html & js.
 
 Guide by [JsBarcode](https://lindell.me/JsBarcode/)
@@ -17,6 +17,7 @@ JsBarcode("barcode", "https://cusmedroid.github.io", {
   margin: 40
 });
 ```
+I developed it so that users can directly enter text to generate barcode [LMB](https://cusmedroid.github.io/live-making-barcode).
 
 # Scan barcode [Camera](https://cusmedroid.github.io/live-making-barcode/camera)
 This a scan barcode
