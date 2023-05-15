@@ -7,6 +7,11 @@ Make your day easier by generating live barcodes also with the scan camera. Only
 3. > Minimalist UI/UX
 4. > Access to permission
 
+# Screenshot
+[<img alt="Live Making Barcode" title="Live Making Barcode" width="100%" src="assets/screenshot/LMB_ss_000.jpg" />](https://cusmedroid.github.io/livemakingbarcode)
+
+[<img alt="Live Making Barcode" title="Live Making Barcode" width="33%" src="assets/screenshot/LMB_ss_001.jpg" />](https://cusmedroid.github.io/livemakingbarcode) [<img alt="Live Making Barcode" title="Live Making Barcode" width="33%" src="assets/screenshot/LMB_ss_002.jpg" />](https://cusmedroid.github.io/livemakingbarcode) [<img alt="Live Making Barcode" title="Live Making Barcode" width="33%" src="assets/screenshot/LMB_ss_003.jpg" />](https://cusmedroid.github.io/livemakingbarcode)
+
 # Example Guide
 Guide by [JsBarcode](https://lindell.me/JsBarcode/)
 
