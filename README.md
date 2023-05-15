@@ -24,9 +24,9 @@ JsBarcode("barcode", "https://cusmedroid.github.io", {
   margin: 40
 });
 ```
-I developed it so that users can directly enter text to generate barcode [LMB](https://cusmedroid.github.io/live-making-barcode).
+I developed it so that users can directly enter text to generate barcode [LMB](https://cusmedroid.github.io/livemakingbarcode/barcode.html) or qrcode [LMB](https://cusmedroid.github.io/livemakingbarcode/qrcode.html).
 
-# Scan barcode [Camera](https://cusmedroid.github.io/live-making-barcode/camera)
+# Scan barcode [Camera](https://cusmedroid.github.io/livemakingbarcode/scanner.html)
 This a scan barcode
 
 Guide by [Minhaz's Experiments](https://blog.minhazav.dev/research/html5-qrcode)
