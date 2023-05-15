@@ -1,5 +1,5 @@
 # Live Making Barcode (LMB)
-Make your day easier by generating live barcodes also with the scan camera. Only in the Live Making Barcode (LME) application, you will get access to this feature for free without a monthly subscription.
+Make your day easier by generating live barcodes also with the scan camera. Only in the Live Making Barcode (LMB) application, you will get access to this feature for free without a monthly subscription.
 
 # Build Apps (Android OS)
 1. > Min SDK 19
