@@ -16,6 +16,9 @@ Make your day easier by generating live barcodes also with the scan camera. Only
 ``` txt
  1. Enter your text or url on input
  2. Click generate QR or Bar Code
+ 3. Click icon on the navigation on the bottom left to select barcode or qr code
+ 4. Click icon on the navigation on the center to scanner
+ 5. Click icon on the navigation on the bottom right to feedback
 ```
 
 I developed it so that users can directly enter text to generate barcode [LMB](https://cusmedroid.github.io/livemakingbarcode/barcode.html) or qrcode [LMB](https://cusmedroid.github.io/livemakingbarcode/qrcode.html).
