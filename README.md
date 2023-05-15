@@ -1,6 +1,13 @@
 # Live Making Barcode (LMB)
-This is a live making barcode on html & js.
+Make your day easier by generating live barcodes also with the scan camera. Only in the Live Making Barcode (LME) application, you will get access to this feature for free without a monthly subscription.
 
+# Build Apps (Android OS)
+1. > Min SDK 19
+2. > Full webview API
+3. > Minimalist UI/UX
+4. > Access to permission
+
+# Example Guide
 Guide by [JsBarcode](https://lindell.me/JsBarcode/)
 
 For example HTML :
