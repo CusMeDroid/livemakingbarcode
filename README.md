@@ -3,9 +3,10 @@ Make your day easier by generating live barcodes also with the scan camera. Only
 
 # Build Apps (Android OS)
 1. > Min SDK 19
-2. > Full webview API
+2. > Full Webview
 3. > Minimalist UI/UX
-4. > Access to permission
+4. > Added Tips
+5. > Clear Cache
 
 # Screenshot
 [<img alt="Live Making Barcode" title="Live Making Barcode" width="100%" src="assets/screenshot/LMB_ss_000.jpg" />](https://cusmedroid.github.io/livemakingbarcode)
