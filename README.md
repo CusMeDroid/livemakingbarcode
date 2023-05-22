@@ -25,7 +25,7 @@ Make your day easier by generating live barcodes also with the scan camera. Only
  5. Click icon on navigation bottom right below to feedback
 ```
 
-I developed it so that users can directly enter text to generate barcode [LMB](https://cusmedroid.github.io/livemakingbarcode/barcode.html) or qrcode [LMB](https://cusmedroid.github.io/livemakingbarcode/qrcode.html).
+I developed it so that users can directly enter text to generate [Bar Code | LMB](https://link-hub.net/693923/bar-code) or [QR Code | LMB](https://link-center.net/693923/qr-code).
 
 # Scanner
 You can scan the barcode or QR Code [here](https://cusmedroid.github.io/livemakingbarcode/scanner.html).
