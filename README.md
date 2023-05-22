@@ -7,6 +7,9 @@ Make your day easier by generating live barcodes also with the scan camera. Only
 3. > Minimalist UI/UX
 4. > Added Tips
 5. > Clear Cache
+6. > Kiat/Panduan
+5. > Tema Terang/Gelap
+6. > Animasi
 
 # Screenshot
 [<img alt="Live Making Barcode" title="Live Making Barcode" width="100%" src="assets/screenshot/LMB_ss_000.jpg" />](https://cusmedroid.github.io/livemakingbarcode)
